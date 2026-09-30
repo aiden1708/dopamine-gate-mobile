@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="accessibility_service_description">
+        Dopamine Gate monitors which application is currently in use so it can protect selected applications with a deliberate gate.
+    </string>
+
+</resources>
