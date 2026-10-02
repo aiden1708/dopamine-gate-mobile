@@ -1,5 +1,7 @@
 ### Features 
-- [ ] Update the app's name. 
+- [x] Update the app's name. (2.10.26)
+- [ ] To show your to-do-lists, your tasks that need to be done. 
+	- I need to connect with a firebase server and database like I did in "Tasks of Kaiden"
 
 ### Bugs
 
